@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#413655</color>
+    <color name="colorAccent">#ebebef</color>
+    <color name="color_bg">#413655</color>
+    <color name="color_heading">#ebebef</color>
+    <color name="color_bg_edittext">#574967</color>
+    <color name="color_pinview">#514A6B</color>
+    <color name="color_bg_button">#FFAF00</color>
+    <color name="white">#ffffff</color>
+
+
+</resources>
